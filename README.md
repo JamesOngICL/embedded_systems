@@ -10,6 +10,10 @@ Project guide is available here: https://github.com/edstott/ES-CW1/blob/main/REA
 Marketing website: https://pmz7696.wixsite.com/opencare
 
 
+
+https://github.com/JamesOngICL/Smart-Breathing-Mask/assets/73653114/65ea241c-4931-4aa5-b238-7932ee847ae1
+
+
 ## Github Organization
 
 A total of 4 development branches were used to build the frontend of the website as well as program the hardware. The final folders serverside and hardware_branch contain the complete and finished code that our group used to demonstrate the project. The presentation which we used in the demonstration is also uploaded here.     
