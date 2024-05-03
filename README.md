@@ -1,8 +1,8 @@
 # Project by Smart Team
 
-This is a project for the 3rd Year EE Embedded Systems Module.The final idea was to develop a smart mask that can also be used as a wearable. It is ideal for doctors who are our target customers, as well as people who live in very polluted areas, where air quality is extremely variable. 
+This was a project for the 3rd Year EE Embedded Systems Module.The final idea was to develop a smart mask that can also be used as a wearable. It is ideal for doctors who are our target customers, as well as people who live in very polluted areas, where air quality is extremely variable. 
 
-The product keeps track of their calories by measuring steps, heart rate through a PPG sensor, and also monitors the surrounding air quality using VOC and CO2 sensors. For the development of the product, we spoke to various doctors and engineers as well as conducting much of our own market research to prototype a product that could truly be used in the widespread commercial sector. Please refer to our marketing website to see the latest information about the mask and our marketing research.            
+The product keeps track of their calories by measuring steps, heart rate through a PPG sensor, and also monitors the surrounding air quality using VOC and CO2 sensors. For the development of the product, we spoke to various doctors and engineers as well as conducting much of our own market research to prototype a product that could truly be used in the widespread commercial sector. Please refer to our marketing website to see the latest information about the mask and our marketing research. While the mask was not actually deployed commercially, the results and study data were developed into a research publication and published in a journal of electronics textiles as available here (https://www.mdpi.com/2673-4591/52/1/15).            
 
 
 Project guide is available here: https://github.com/edstott/ES-CW1/blob/main/README.md
